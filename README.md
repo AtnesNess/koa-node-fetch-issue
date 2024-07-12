@@ -71,3 +71,5 @@ See `mitigation.js`
 When streaming with nodejs http server there is no issue of TCP memory leak.
 
 Try reproducing similar steps with `nokoa.js` as a server
+
+See https://github.com/koajs/koa/issues/1834
